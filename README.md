@@ -1,3 +1,5 @@
+시연영상: https://www.youtube.com/watch?v=wGmRV-elPxM
+
 역할: 프론트엔드
 
 인원: 5명 (프론트엔드 3명, 백엔드 2명)
